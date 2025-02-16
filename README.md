@@ -34,7 +34,7 @@ We invite you to collaborate with us and explore how our market intelligence sol
 
 - **LinkedIn:** [Connect with us](https://www.linkedin.com/in/254Co)
 - **Twitter:** [Follow us](https://twitter.com/254Co)
-- **Email:** [254Co@example.com](mailto:254Co@example.com)
+- **Email:** [info@254carbon.com](mailto:m@254carbon.com)
 
 ## Insights and Thought Leadership
 
