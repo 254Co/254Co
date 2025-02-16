@@ -17,15 +17,6 @@ At 254Co, we harness the power of advanced analytics, technology, and market int
 - **Research & Development:**  
   By leveraging innovative methodologies and industry best practices, we develop next-generation solutions that enhance decision support and optimize performance in volatile markets.
 
-## Technical Expertise
-
-- **Data Analysis & Machine Learning:** Python, R, SQL, Pandas, scikit-learn
-- **Web Development:** JavaScript, React, Angular, Node.js, Express
-- **Backend & API Development:** RESTful APIs, GraphQL, Django, Flask
-- **Data Visualization:** D3.js, Tableau, Power BI
-- **Cloud & DevOps:** AWS, Azure, Docker, Kubernetes, GitHub Actions
-- **Database Management:** MySQL, PostgreSQL, MongoDB
-
 ## Recent Innovations
 
 - **Commodity Market Dashboard:**  
